@@ -1,0 +1,26 @@
+body{
+	/*background-color:LemonChiffon;*/
+	background-image:url('https://www.domdekora66.ru/content/product/1020700/1020620/1020620f.jpg');
+}
+h1{
+	font-size:40px;
+}
+h2{
+	font-size:35px;
+	text-align:center;
+}
+p{
+	text-indent:50px;
+}
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	background-color:silver;
+}
+th,td{
+	border:1px solid black;
+}
+ul{
+	list-style:url('icons8-цветок-24.png');
+}
+
